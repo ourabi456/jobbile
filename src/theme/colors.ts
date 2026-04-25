@@ -1,0 +1,18 @@
+export const Colors = {
+  brand: '#2563EB',
+  brandLight: '#EFF6FF',
+  brandDark: '#1D4ED8',
+  green: '#16A34A',
+  greenLight: '#F0FDF4',
+  red: '#DC2626',
+  redLight: '#FEF2F2',
+  amber: '#D97706',
+  amberLight: '#FFFBEB',
+  gray: '#6B7280',
+  bg: '#F9FAFB',
+  white: '#FFFFFF',
+  border: '#E5E7EB',
+  text: '#111827',
+  muted: '#6B7280',
+  dark: '#1F2937',
+} as const;
